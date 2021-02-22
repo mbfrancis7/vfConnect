@@ -1,0 +1,24 @@
+{
+  "name": "VoiceFoundry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.842.0",
+    "got": "^11.8.1",
+    "ramda": "^0.27.1",
+    "serverless": "^2.23.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "babel-loader": "^8.2.2",
+    "serverless-webpack": "^5.3.5",
+    "webpack": "^5.22.0"
+  }
+}
